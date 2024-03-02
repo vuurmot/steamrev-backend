@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|c:\\users\\tenco\\documents\\projects\\steamrev-backend\\steamrev-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|solutionrelative:steamrev-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|c:\\users\\tenco\\documents\\projects\\steamrev-backend\\steamrev-backend\\metrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|solutionrelative:steamrev-backend\\metrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|c:\\users\\tenco\\documents\\projects\\steamrev-backend\\steamrev-backend\\controllers\\metricscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|solutionrelative:steamrev-backend\\controllers\\metricscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|c:\\users\\tenco\\documents\\projects\\steamrev-backend\\steamrev-backend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|solutionrelative:steamrev-backend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|c:\\users\\tenco\\documents\\projects\\steamrev-backend\\steamrev-backend\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|solutionrelative:steamrev-backend\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|c:\\users\\tenco\\documents\\projects\\steamrev-backend\\steamrev-backend\\helpers\\commonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|solutionrelative:steamrev-backend\\helpers\\commonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|c:\\users\\tenco\\documents\\projects\\steamrev-backend\\steamrev-backend\\datascraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FC0496-6896-476C-BC50-89C08FA36F04}|steamrev-backend\\steamrev-backend.csproj|solutionrelative:steamrev-backend\\datascraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MetricsController.cs",
+              "DocumentMoniker": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\Controllers\\MetricsController.cs",
+              "RelativeDocumentMoniker": "steamrev-backend\\Controllers\\MetricsController.cs",
+              "ToolTip": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\Controllers\\MetricsController.cs",
+              "RelativeToolTip": "steamrev-backend\\Controllers\\MetricsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T02:26:46.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\Program.cs",
+              "RelativeDocumentMoniker": "steamrev-backend\\Program.cs",
+              "ToolTip": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\Program.cs",
+              "RelativeToolTip": "steamrev-backend\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T06:56:42.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "steamrev-backend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "steamrev-backend\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T06:10:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Metrics.cs",
+              "DocumentMoniker": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\Metrics.cs",
+              "RelativeDocumentMoniker": "steamrev-backend\\Metrics.cs",
+              "ToolTip": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\Metrics.cs",
+              "RelativeToolTip": "steamrev-backend\\Metrics.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:24:32.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommonHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\Helpers\\CommonHelpers.cs",
+              "RelativeDocumentMoniker": "steamrev-backend\\Helpers\\CommonHelpers.cs",
+              "ToolTip": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\Helpers\\CommonHelpers.cs",
+              "RelativeToolTip": "steamrev-backend\\Helpers\\CommonHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T03:27:48.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "steamrev-backend\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "steamrev-backend\\Controllers\\GamesController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T03:23:51.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataScraper.cs",
+              "DocumentMoniker": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\DataScraper.cs",
+              "RelativeDocumentMoniker": "steamrev-backend\\DataScraper.cs",
+              "ToolTip": "C:\\Users\\TENCO\\Documents\\Projects\\steamrev-backend\\steamrev-backend\\DataScraper.cs",
+              "RelativeToolTip": "steamrev-backend\\DataScraper.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwJUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T03:04:56.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
